@@ -1,0 +1,39 @@
+{
+  "return_window_days_by_category": {
+    "electronics": 30,
+    "apparel": 30,
+    "home": 30,
+    "refurbished": 14,
+    "default": 30
+  },
+  "restocking_fees": {
+    "electronics": {
+      "sealed": 0.00,
+      "opened": 0.10
+    },
+    "apparel": {
+      "sealed": 0.00,
+      "opened": 0.05
+    },
+    "home": {
+      "sealed": 0.00,
+      "opened": 0.05
+    },
+    "refurbished": {
+      "sealed": 0.00,
+      "opened": 0.15
+    },
+    "default": {
+      "sealed": 0.00,
+      "opened": 0.10
+    }
+  },
+  "shipping_refundable": false,
+  "doa_report_days": 7,
+  "category_synonyms": {
+    "electronics": ["phone", "headphones", "earbuds", "laptop", "tablet", "camera"],
+    "apparel": ["jacket", "shirt", "jeans", "clothing", "sweater"],
+    "home": ["blender", "cookware", "vacuum", "kettle", "toaster"],
+    "refurbished": ["renewed", "reconditioned", "certified refurb"]
+  }
+}

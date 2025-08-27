@@ -1,0 +1,42 @@
+[
+  {
+    "id": "returns_general",
+    "title": "Returns – General Window",
+    "content": "Most items are returnable within 30 days from delivery if in sellable condition with all accessories. Shipping fees are non-refundable."
+  },
+  {
+    "id": "returns_electronics",
+    "title": "Returns – Electronics",
+    "content": "Electronics have a 30-day window from delivery. Opened electronics are returnable with all accessories; a category restocking fee may apply. Physical damage not caused by shipping is not eligible."
+  },
+  {
+    "id": "restocking_electronics_opened",
+    "title": "Restocking – Opened Electronics",
+    "content": "Opened electronics incur a 10% restocking fee if returned within the valid window. Sealed electronics have no restocking fee."
+  },
+  {
+    "id": "restocking_apparel_opened",
+    "title": "Restocking – Apparel",
+    "content": "Apparel with tags removed or light wear may be accepted within 30 days with a 5% restocking fee. New-with-tags apparel has no fee."
+  },
+  {
+    "id": "restocking_home_opened",
+    "title": "Restocking – Home & Kitchen",
+    "content": "Opened home/kitchen items in good condition may incur a 5% restocking fee if within 30 days."
+  },
+  {
+    "id": "refurbished_policy",
+    "title": "Refurbished – Window & Fee",
+    "content": "Refurbished items have a 14-day return window. If opened, a 15% restocking fee applies. Cosmetic blemishes disclosed at purchase are not defects."
+  },
+  {
+    "id": "shipping_refundability",
+    "title": "Shipping Fees – Non-Refundable",
+    "content": "Original and expedited shipping fees are non-refundable unless the return is due to our error or a verified DOA case."
+  },
+  {
+    "id": "doa_defective",
+    "title": "Damaged/Defective on Arrival (DOA)",
+    "content": "Items damaged in transit or defective on arrival qualify for a free replacement or full refund if reported within 7 days of delivery."
+  }
+]
