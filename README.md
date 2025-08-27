@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-This report outlines the architecture and implementation of an AI-powered customer support agent designed to handle returns and warranty inquiries. The system combines **Retrieval-Augmented Generation (RAG)** for policy lookup with a deterministic **refund calculation tool** in a structured **LangGraph** agent framework. Powered by Groq's high-speed LLM inference, the agent classifies intent, retrieves policies, extracts parameters, computes refunds, and generates coherent, citation-backed responses. The solution meets all acceptance criteria, delivering accurate, deterministic, and user-friendly support.
+This report outlines the architecture and implementation of an AI-powered customer support agent designed to handle refunds calculation and policy inquiries. The system combines **Retrieval-Augmented Generation (RAG)** for policy lookup with a deterministic **refund calculation tool** in a structured **LangGraph** agent framework. Powered by Groq's LLM inference, the agent classifies intent, retrieves policies, extracts parameters, computes refunds, and generates coherent, citation-backed responses. The solution meets all acceptance criteria, delivering accurate, deterministic, and user-friendly support.
 
 ---
 
